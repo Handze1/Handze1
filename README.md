@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Handze1
 - 👀 I’m interested in Machine Learning and Big Data.
-- 🌱 I’m currently a graduate student studying Bioinformatics.  
+- 🌱 I’m currently a graduate student studying Bioinformatics at SDSU.
 - 💞️ I’m looking to collaborate on projects related to Finance, Real Estate and Health. 
 - 📫 How to reach me ...
 
