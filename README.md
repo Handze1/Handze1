@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex Handzel
 - 👀 I’m interested in Machine Learning and Big Data tools.
 - 🌱 I’m have recently completed my masters of science in biological and medical informatics.
-- 💞️ I’m looking to collaborate on projects from many different fields such as business, healthcare, finance and marketing. 
+- 💞️ I’m looking to collaborate on projects from many different fields such as business, health, finance and marketing. 
 - 📫 You can reach me at alexh20@vt.edu
 
 <!---
